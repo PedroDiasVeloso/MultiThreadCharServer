@@ -1,0 +1,2 @@
+Multi Thread Chat Server in Java.
+Run the Server and as much clients as you want. The messages will appear in the server terminal and in the clients terminal after they sent at least one message.
